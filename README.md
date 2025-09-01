@@ -7,3 +7,5 @@ Create a PIR (Passive InfraRed) sensor system to detect movement using low cost 
 ### SLG47001 design 
 ![image.png](Go-Configure_design/design_pic.png)
 
+### Schematic
+![schematic.pdf](schematic/Configurable_PIR_GreenPak.pdf)
