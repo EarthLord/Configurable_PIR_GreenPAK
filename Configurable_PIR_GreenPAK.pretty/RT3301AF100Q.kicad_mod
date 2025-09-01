@@ -1,0 +1,272 @@
+(footprint "RT3301AF100Q"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "RT3301AF100Q-2 and 5410 from Adafruit")
+	(tags "Switch reverse mount tactile switch")
+	(property "Reference" "S**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "7653bed9-f295-414e-bbf5-d2bbe4fbebc6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "RT3301AF100Q_5410"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "f3ff6d30-a029-4bba-aa08-a8a6c9ab8e17")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e913c9e0-9bc8-4804-b310-cdc474b1c733")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bfcc230e-5cb6-4aaa-9651-8fbfb235651b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -3 -3)
+		(end -3 3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d9ea775d-eb12-4a4c-96c8-17df8dd674ee")
+	)
+	(fp_line
+		(start -3 3)
+		(end 3 3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "74889382-a451-4bc8-a18e-2a3c0f01499d")
+	)
+	(fp_line
+		(start 3 -3)
+		(end -3 -3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "879a5e15-abb3-4b32-a1e8-48a190d7add4")
+	)
+	(fp_line
+		(start 3 3)
+		(end 3 -3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8ed24465-3d92-49e8-aa1e-a8f455c364be")
+	)
+	(fp_line
+		(start 6.1 2.25)
+		(end 6.1 2.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a8e721bb-5ca3-4b6d-bbdf-5f4c84d295be")
+	)
+	(fp_line
+		(start 6.2 2.25)
+		(end 6.2 2.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "883909b4-98df-4235-91af-cf654a673616")
+	)
+	(fp_arc
+		(start 6.1 2.25)
+		(mid 6.15 2.2)
+		(end 6.2 2.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f069515f-f9a9-48b2-bd30-472192ac0e78")
+	)
+	(fp_arc
+		(start 6.2 2.25)
+		(mid 6.15 2.3)
+		(end 6.1 2.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7d42a474-c74d-408d-a858-1a2d7b777eb9")
+	)
+	(fp_line
+		(start -6.6 -4)
+		(end 6.6 -4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6803ded3-e0ce-4f07-86c4-fea707a62429")
+	)
+	(fp_line
+		(start -6.6 4)
+		(end -6.6 -4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "07fe7a36-56cf-4564-8403-da6f24c31922")
+	)
+	(fp_line
+		(start 6.6 -4)
+		(end 6.6 4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "df96b99c-cdeb-44f4-8b27-0a31805a2910")
+	)
+	(fp_line
+		(start 6.6 4)
+		(end -6.6 4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ca7c86ab-aa26-4117-a73c-f319ec0b5488")
+	)
+	(fp_line
+		(start -3 -3)
+		(end -3 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bb5d3827-f7b2-484c-b30f-623027d66e15")
+	)
+	(fp_line
+		(start -3 3)
+		(end 3 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b772f6d3-74f1-4385-9337-6c9ae5c46789")
+	)
+	(fp_line
+		(start 3 -3)
+		(end -3 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a18c5b02-b559-4be6-8b8b-4130f2b349c8")
+	)
+	(fp_line
+		(start 3 3)
+		(end 3 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "21bb3f35-3c6d-49c0-9df6-548e90445c8a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "b6c9e0bb-b96e-492c-9d51-b16ca184464a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 3.7 3.7)
+		(drill 3.7)
+		(layers "*.Cu" "*.Mask")
+		(uuid "b5015af1-24c5-4a00-88ca-11ae96e2a1f9")
+	)
+	(pad "1" smd rect
+		(at -5 2.25 90)
+		(size 1.2 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6a22fdd1-330f-44cf-b2a4-c34ae4e89b1c")
+	)
+	(pad "1" smd rect
+		(at 5 2.25 90)
+		(size 1.2 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3237e506-ac81-4e29-b0aa-082e5a5c5530")
+	)
+	(pad "2" smd rect
+		(at -5 -2.25 90)
+		(size 1.2 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c37a9dc2-39ae-4a60-bc79-7cb1d06f9f6f")
+	)
+	(pad "2" smd rect
+		(at 5 -2.25 90)
+		(size 1.2 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "69a34938-67b6-45d3-aa30-128bb9ad1cb7")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3D_models/RT3301AF100Q.stp"
+		(offset
+			(xyz 0 0 2.85)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -180 -0 -0)
+		)
+	)
+)
