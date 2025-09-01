@@ -150,7 +150,7 @@
 						)
 					)
 				)
-				(number "1"
+				(number "P"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -161,14 +161,14 @@
 			(pin passive line
 				(at 0 -2.54 90)
 				(length 2.54)
-				(name "-"
+				(name "~"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "2"
+				(number "N"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1685,23 +1685,21 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at -12.192 11.43 0)
+			(at -11.938 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(property "Value" "SLG47001V"
-			(at 3.302 11.43 0)
+			(at 6.35 12.446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
