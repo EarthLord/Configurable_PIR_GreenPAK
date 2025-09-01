@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Config_PIR_GreenPAK")(type "KiCad")(uri "${KIPRJMOD}/Config_PIR_GreenPAK.kicad_sym")(options "")(descr ""))
+)
